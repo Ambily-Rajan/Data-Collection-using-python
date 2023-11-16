@@ -9,4 +9,4 @@ In this repo we explore different methods to collect data from a target website.
 
 2. **Web Scraping**: Extracting data by parsing HTML content from the website.
 
-3. **CSV Handling**: Storing the collected data in CSV format for easy manipulation and sharing.
+3. **CSV Handling**: Tips for storing the collected data in CSV format for easy manipulation and sharing.
