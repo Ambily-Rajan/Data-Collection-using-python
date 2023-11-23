@@ -9,6 +9,6 @@ In this repo we explore different methods to collect data from a target website.
 
 2. **CSV Handling**: Tips for storing the collected data in CSV format for easy manipulation and sharing.
 
-3. **JSON/SQL**: Extracting data from JSON files or  from a Database.
+3. **JSON/SQL**: Tips on Extracting data from JSON files or  from a Database.
    
 4. **Web Scraping**: Extracting data by parsing HTML content from the website.
